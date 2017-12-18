@@ -6,6 +6,9 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 
+web/app/themes/astrid
+web/app/themes/sydney
+
 # WordPress
 web/wp
 web/.htaccess
