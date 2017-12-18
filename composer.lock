@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b1685ed4053f4c51e58801cf15a3023a",
+    "content-hash": "9357d2b501c4b8b63c4c979d6f56d713",
     "packages": [
         {
             "name": "andrewexton373/wp-sync-db",
@@ -687,26 +687,6 @@
             "homepage": "https://wordpress.org/plugins/siteorigin-panels/"
         },
         {
-            "name": "wpackagist-plugin/sydney-toolbox",
-            "version": "1.01",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/sydney-toolbox/",
-                "reference": "tags/1.01"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sydney-toolbox.1.01.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/sydney-toolbox/"
-        },
-        {
             "name": "wpackagist-plugin/wordfence",
             "version": "6.3.22",
             "source": {
@@ -785,26 +765,6 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/astrid/"
-        },
-        {
-            "name": "wpackagist-theme/sydney",
-            "version": "1.43",
-            "source": {
-                "type": "svn",
-                "url": "https://themes.svn.wordpress.org/sydney/",
-                "reference": "1.43"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/sydney.1.43.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/sydney/"
         }
     ],
     "packages-dev": [
