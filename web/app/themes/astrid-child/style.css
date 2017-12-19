@@ -6,3 +6,11 @@
  Template:     astrid
  Version:      1.0.0
 */
+
+.footer-contact {
+    font-size: 11px;
+}
+
+.footer-contact-block {
+    padding: 0 8px;
+}
