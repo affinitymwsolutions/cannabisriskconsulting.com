@@ -49,7 +49,7 @@
     "andrewexton373/wp-sync-db": "dev-master",
     "andrewexton373/wp-sync-db-media-files": "dev-master",
     "wpackagist-theme/astrid": "~1.15",
-    "wpackagist-plugin/siteorigin-panels": "~2.5.14",
+    "wpackagist-plugin/siteorigin-panels": "~2.6.2",
     "wpackagist-plugin/wordfence": "~6.3.21",
     "wpackagist-plugin/wp-fastest-cache": "~0.8.7.4",
     "wpackagist-plugin/wp-piwik": "~1.0.19",
